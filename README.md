@@ -12,6 +12,7 @@
 -> как мы собипали данные для тематических блоков и отбирали ненужные слова, [рассказали тут](https://github.com/nikagarnova/Andan_project2023/blob/main/additional_wordlists.ipynb)
 
 Дополнительно:
+
 [список фильмов после парсинга](https://github.com/nikagarnova/Andan_project2023/blob/main/list.csv)
 
 [список фильмов после обработки, которые используем дальше везде](https://github.com/nikagarnova/Andan_project2023/blob/main/result.csv)
