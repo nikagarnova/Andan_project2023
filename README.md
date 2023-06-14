@@ -32,7 +32,7 @@
 
 [рабочий imbd score](https://github.com/nikagarnova/Andan_project2023/blob/main/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_imbd.ipynb) — рабочий, но загрузили в 0:05
 
-[imbd](https://github.com/nikagarnova/Andan_project2023/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.2.ipynb) — бесполезно смотреть, случайно закинули не заупщенный файл
+[imbd](https://github.com/nikagarnova/Andan_project2023/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.2.ipynb) — бесполезно смотреть, случайно закинули не запущенный файл
 
 [metascore](https://github.com/nikagarnova/Andan_project2023/blob/main/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%BC%D0%B5%D1%82%D0%B0%D1%81%D0%BA%D0%BE%D1%80.ipynb)
 
